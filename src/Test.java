@@ -2,7 +2,7 @@
 public class Test {
 
 	int i;
-
+  system.out.Println("this is the sample test");
 	public static void main(String[] args){
 
 
@@ -13,3 +13,4 @@ public class Test {
 	}
 
 }
+
